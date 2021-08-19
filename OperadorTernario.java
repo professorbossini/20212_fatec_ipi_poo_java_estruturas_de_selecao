@@ -18,5 +18,7 @@ public class OperadorTernario {
         System.out.printf ("Você %spode dirigir\n", idade >= 18 ? "" : "não ");
         resultado = String.format("Você %spode dirigir\n", idade >= 18 ? "" : "não ");
         JOptionPane.showMessageDialog(null, resultado);
+
+        //mais conteudo
     }   
 }
